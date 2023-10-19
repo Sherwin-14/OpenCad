@@ -1,4 +1,4 @@
-# 3D-Designs-Search
+# OpenCad
 
 This web app is create using Streamlit framework and plotly, it can be used to search for a 3D design of an item. 
 one can check the dimensions from all angles of the  particular item.
